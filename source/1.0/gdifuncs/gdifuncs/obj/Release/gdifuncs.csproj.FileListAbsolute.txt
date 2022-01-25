@@ -1,0 +1,9 @@
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\bin\Release\gdifuncs.exe.config
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\bin\Release\gdifuncs.exe
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.csprojResolveAssemblyReference.cache
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.MainForm.resources
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.majorsgui.resources
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.pinksavage.resources
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.protection64.resources
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.csproj.GenerateResource.Cache
+C:\Mlwre\HorrorTubies\gdifuncs\gdifuncs\obj\Release\gdifuncs.exe
